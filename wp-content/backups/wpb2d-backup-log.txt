@@ -1,0 +1,25 @@
+18:01:12: Backup started on Saturday January 5, 2013.
+18:04:02: Creating SQL backup of your WordPress core.
+18:04:03: Creating SQL backup of your WordPress plugins.
+18:04:03: Backing up WordPress path at (/mnt/var/vcap.local/dea/apps/yokozuna-0-71c14467684c312bc87198c8948571b8/app/).
+18:04:09: Approximately 16% complete.
+18:04:15: Approximately 24% complete.
+18:04:21: Approximately 31% complete.
+18:04:27: Approximately 33% complete.
+18:04:33: Approximately 35% complete.
+18:04:39: Approximately 37% complete.
+18:04:45: Approximately 41% complete.
+18:04:51: Approximately 54% complete.
+Uploaded Files:[{"file":"wp-content\/backups\/d12708189eeac4f5fa639e7dd682f5385-backup-plugins.sql","mtime":1357401843}]
+18:04:57: Approximately 58% complete.
+Uploaded Files:[{"file":"wp-content\/backups\/d12708189eeac4f5fa639e7dd682f5385-backup-core.sql","mtime":1357401843}]
+18:05:03: Approximately 63% complete.
+18:05:09: Approximately 70% complete.
+18:05:15: Approximately 77% complete.
+18:05:28: Approximately 82% complete.
+18:05:34: Approximately 90% complete.
+18:05:40: Approximately 97% complete.
+18:05:41: A total of 1639 files were processed.
+18:05:41: Backup complete.
+18:05:41: A total of 7MB of memory was used to complete this backup.
+18:05:41: Uploading /mnt/var/vcap.local/dea/apps/yokozuna-0-71c14467684c312bc87198c8948571b8/app/wp-content/backups/wpb2d-backup-log.txt.
