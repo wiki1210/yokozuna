@@ -1,4 +1,4 @@
-<?php // Modified for Hebrew translation
+<?php
 /**
  * The base configurations of the WordPress.
  *
@@ -68,9 +68,8 @@ $table_prefix  = 'wp_';
  * language must be installed to wp-content/languages. For example, install
  * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
  * language support.
- * By default, the Hebrew locale is used.
  */
-define('WPLANG', 'he_IL');
+define('WPLANG', '');
 
 /**
  * For developers: WordPress debugging mode.
